@@ -22,7 +22,16 @@ ZapMuse 把过程分成两步：**当下尽快留下原始信息，之后再集�
 
 ## 界面预览
 
-当前公开截图正在重新拍摄。为避免展示测试数据或已经变化的旧界面，本页暂不使用历史测试截图；截图补齐后将展示首页、即刻记录、AI 整理和档案检索四个核心环节。
+<p align="center">
+  <img src="docs/images/01-home.jpg" width="210" alt="ZapMuse 首页与即刻记录入口">
+  <img src="docs/images/02-ai-prompts.jpg" width="210" alt="ZapMuse AI 追问模板与助手技能">
+  <img src="docs/images/03-ai-providers.jpg" width="210" alt="ZapMuse 可选 AI 服务商设置">
+  <img src="docs/images/04-personalization.jpg" width="210" alt="ZapMuse 个性化回答与备份设置">
+</p>
+
+<p align="center">首页与即刻记录入口 · AI 追问模板 · AI 服务设置 · 个性化与备份设置</p>
+
+以上为 0.1.43-alpha 实机截图。为保护真实记录内容，当前未公开档案库与日历截图；后续补拍使用演示数据的“即刻记录—详情整理—档案检索”完整流程。
 
 ## 使用方式
 
