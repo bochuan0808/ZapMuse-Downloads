@@ -23,10 +23,10 @@ ZapMuse 把过程分成两步：**当下尽快留下原始信息，之后再集�
 ## 界面预览
 
 <p align="center">
-  <img src="docs/images/01-home.jpg" width="210" alt="ZapMuse 首页与即刻记录入口">
-  <img src="docs/images/02-ai-prompts.jpg" width="210" alt="ZapMuse AI 追问模板与助手技能">
-  <img src="docs/images/03-ai-providers.jpg" width="210" alt="ZapMuse 可选 AI 服务商设置">
-  <img src="docs/images/04-personalization.jpg" width="210" alt="ZapMuse 个性化回答与备份设置">
+  <a href="docs/images/01-home.jpg"><img src="docs/images/01-home.jpg" width="210" alt="ZapMuse 首页与即刻记录入口"></a>
+  <a href="docs/images/02-ai-prompts.jpg"><img src="docs/images/02-ai-prompts.jpg" width="210" alt="ZapMuse AI 追问模板与助手技能"></a>
+  <a href="docs/images/03-ai-providers.jpg"><img src="docs/images/03-ai-providers.jpg" width="210" alt="ZapMuse 可选 AI 服务商设置"></a>
+  <a href="docs/images/04-personalization.jpg"><img src="docs/images/04-personalization.jpg" width="210" alt="ZapMuse 个性化回答与备份设置"></a>
 </p>
 
 <p align="center">首页与即刻记录入口 · AI 追问模板 · AI 服务设置 · 个性化与备份设置</p>
