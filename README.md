@@ -1,6 +1,6 @@
 # ZapMuse · 即刻灵感
 
-> 本仓库用于 ZapMuse 闭源 Android 软件的早期试用分发与问题反馈，不提供应用源码。安装包正在准备发布，请以 Releases 中实际可下载的附件为准。
+> 本仓库用于 ZapMuse 闭源 Android 软件的早期试用分发与问题反馈，不提供应用源码。当前公开版本为 0.1.43-alpha，请以对应 Release 中实际可下载的附件为准。
 
 有想法时先留下来，方便时再整理。
 
@@ -43,9 +43,9 @@ AI 需要自行配置兼容的 HTTPS 接口及 API Key，并完成连接测试�
 
 ## 下载与安装
 
-候选版本：**0.1.43-alpha**，支持 **Android 10 及以上**，仅 Android 手机端。
+当前公开的早期试用版本：**0.1.43-alpha**，支持 **Android 10 及以上**，仅 Android 手机端。
 
-从本仓库的 [Releases](https://github.com/bochuan0808/ZapMuse-Downloads/releases) 下载 `.apk` 安装文件，不要下载用于仓库说明的 Source code 压缩包作为安装包。如果列表为空，表示安装包尚未发布。
+从 [0.1.43-alpha 发布页](https://github.com/bochuan0808/ZapMuse-Downloads/releases/tag/v0.1.43-alpha)下载 `.apk` 安装文件，不要下载 GitHub 自动生成的 Source code 压缩包作为安装包。
 
 - 文件名：`ZapMuse-v0.1.43-alpha.apk`
 - 大小：45,539,837 字节，约 45.5 MB。
