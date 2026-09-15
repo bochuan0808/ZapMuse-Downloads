@@ -2,19 +2,16 @@
 
 # ZapMuse · 即刻灵感
 
-有想法时先留下来，方便时再整理。
-
-面向 Android 手机的灵感记录工具。把文字、链接、录音、图片和视频放进同一条灵感，也能收藏小宇宙公开单集的音频与节目图文，再按需调用自己配置的 AI 服务提炼、分类和追问。
+第一时间！最快速度进入记录状态！留下文字、链接、声音和画面，之后再用 AI 整理与回顾。
 
 **当前公开体验版：0.1.58-alpha · Android 10 及以上**
-
 **[下载最新版 APK](https://github.com/bochuan0808/ZapMuse-Downloads/releases/download/v0.1.58-alpha/ZapMuse-v0.1.58-alpha.apk)** · [新版说明](https://github.com/bochuan0808/ZapMuse-Downloads/releases/tag/v0.1.58-alpha) · [历史版本](https://github.com/bochuan0808/ZapMuse-Downloads/releases)
 
-本仓库用于闭源 Android 软件的体验版分发和问题反馈，不提供应用源码。
-
 ## 新版功能总览
-
 [![ZapMuse 0.1.58-alpha 功能总览：桌面入口、灵感记录、AI 对话、播客与视频播放、日历与筛选](docs/images/zapmuse-v0.1.58-overview.jpg)](docs/images/zapmuse-v0.1.58-overview.jpg)
+Android 10+｜30 天试用｜AI 需自行配置接口，第三方费用另计
+
+**如果这个工具对你有帮助，欢迎点右上角 ⭐ Star，方便以后找到，也支持我继续维护。**
 
 作者整理的新版界面与功能展示，点击图片可查看高清原图。各媒体来源的支持范围与使用限制见下文。
 
